@@ -2,7 +2,12 @@
 
 ## Description
 
-This machine learning portfolio consists of three projects, a linear regression, KNN, and image recognition program. They are built in jupyter notebooks using Python.
+This machine learning portfolio consists of three projects highlighting different aspects of machine learning: 
+1. a linear regression 
+2. KNN 
+3. image recognition program. 
+
+They are built in jupyter notebooks using Python.
 
 ## Bibliography
 
