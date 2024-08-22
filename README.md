@@ -1,10 +1,8 @@
 # Machine Learning Project
 
-Simple overview of use/purpose.
-
 ## Description
 
-An in-depth paragraph about your project and overview of use.
+This machine learning portfolio consists of three projects, a linear regression, KNN, and image recognition program. 
 
 ## Getting Started
 
