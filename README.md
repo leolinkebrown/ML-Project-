@@ -17,7 +17,7 @@ All projects are built in jupyter notebooks using python.
 
 * Image Recognition Project (15 Marks)
 
-* Total 30 Marks
+Total 30 Marks
 
 ## Bibliography
 
