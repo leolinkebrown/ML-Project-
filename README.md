@@ -9,15 +9,15 @@ This machine learning portfolio consists of three projects highlighting differen
 
 All projects are built in jupyter notebooks using python.
 
-Github Repository (5 Marks)
+* Github Repository (5 Marks)
 
-Linear Regression (5 Marks)
+* Linear Regression (5 Marks)
 
-KNN (5 Marks)
+* KNN (5 Marks)
 
-Image Recognition Project (15 Marks)
+* Image Recognition Project (15 Marks)
 
-Total 30 Marks
+* Total 30 Marks
 
 ## Bibliography
 
